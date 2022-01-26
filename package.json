@@ -1,6 +1,8 @@
 {
   "name": "hello-world",
   "version": "0.1.0",
+  "engines": { "node": "10.10.0",
+  "npm": "6.4.1",
   "private": true,
   "dependencies": {
     "@devexpress/dx-react-chart": "^2.7.6",
